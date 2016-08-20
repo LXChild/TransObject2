@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">DataTransmit</string>
+    <string name="btn_text">Transmit</string>
+    <string name="tv_text">哈哈，我是逗比</string>
+
+</resources>
