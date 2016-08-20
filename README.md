@@ -1,0 +1,2 @@
+# TransObject2
+Android两个Activity之间传递Object示例2
